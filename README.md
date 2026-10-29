@@ -25,7 +25,9 @@ Since a *very* young age, I've been fascinated by how computers work. It took me
     <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
     </picture>
+</p>
 
+<p align="center" >
 	<picture>
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/liam-sholler/liam-sholler/output-3d-contrib/profile-night-rainbow.svg" />
 	</picture>
